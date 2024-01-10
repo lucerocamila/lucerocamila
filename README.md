@@ -13,17 +13,6 @@ Welcome to my corner on GitHub, where creativity and technology meet to create u
     - [Backend Development with Node.js](https://certificates.academlo.com/en/verify/37902721517064)
   - **Period:** April 2022 - 2023
 
-### 💼 Professional Experience:
-#### NO-COUNTRY, Buenos Aires, Argentina
-- **Front-End Developer, UX-UI Designer**
-- **Period:** Feb 2023 - Dec 2023
-- Key Projects: "Compra Listo" - Bridging Front-End with UX/UI, leading and collaborating in an agile environment.
-
-#### INSTITUTO MAS, GBA, Argentina
-- **English Teacher**
-- **Period:** Since Oct 2021
-- Transitioning from teaching English to diving into programming, applying communication and teaching skills to software development.
-
 ### 🌟 Technical Skills:
 - **Frontend:** React JS, Redux, Zustand, JavaScript, HTML, CSS (including Tailwind CSS, Grid, and Flex)
 - **Backend:** Node JS, SQL
