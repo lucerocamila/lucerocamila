@@ -20,7 +20,6 @@ Welcome to my corner on GitHub, where creativity and technology meet to create u
 ### 🚀 Major Projects:
 - **Carpincho Security App:** An intuitive interface for digital security. [Carpincho Security App](https://carpinchosecurity.vercel.app/)
 - **Compra LISTo App:** Combining React and Redux for a smooth shopping experience. [Compra LISTo App](https://compralisto0.vercel.app/)
-- **Pokédex App:** A digital Pokémon adventure with React Router and Redux. [Pokédex App](https://pokedex-by-luce.netlify.app/)
 - **Rick and Morty App:** Exploring universes with an API and React. [Rick and Morty App](https://rick-and-morty-by-luce.netlify.app/)
 - **Weather App:** Weather information at your fingertips. [Weather App](https://weather-app-by-luce.netlify.app/)
 
