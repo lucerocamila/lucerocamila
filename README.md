@@ -1,4 +1,4 @@
-# 👩‍💻 Lucero Camila GONZÁLEZ - Front-End Developer
+# 👩‍💻 Lucero Camila GONZÁLEZ - Full Stack Web Developer
 
 Welcome to my corner on GitHub, where creativity and technology meet to create unforgettable web experiences. 🚀
 
