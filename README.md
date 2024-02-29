@@ -11,7 +11,6 @@ Welcome to my corner on GitHub, where creativity and technology meet to create u
     - [Fundamentals of Web Development (CSS, HTML, JavaScript)](https://certificates.academlo.com/en/verify/59501105835642?ref=email)
     - [Web Application Development with React](https://certificates.academlo.com/en/verify/43372350370022)
     - [Backend Development with Node.js](https://certificates.academlo.com/en/verify/37902721517064)
-  - **Period:** April 2022 - 2023
 
 ### 🌟 Technical Skills:
 - **Frontend:** React JS, Redux, Zustand, JavaScript, HTML, CSS (including Tailwind CSS, Grid, and Flex)
